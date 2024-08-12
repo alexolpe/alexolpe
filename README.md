@@ -9,6 +9,6 @@ Here are some ideas to get you started:-->
 
 🔻 I previously did my bachelor's degree in Electrical Engineering at Universitat Politècnica de Catalunya, Barcelona
 
-🔻 My current interest is signal/audio/image processing
+🔻 My main interest is signal/audio/image processing
 
 🔻 You can reach me on [LinkedIn](https://www.linkedin.com/in/alex-olive-pellicer/)
