@@ -1,4 +1,4 @@
-## Hi, I'm Àlex Olivé
+## Hi, I am Àlex Olivé
 
 <!--
 **alexolpe/alexolpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,4 +11,4 @@ Here are some ideas to get you started:-->
 
 🔻 My current interest is signal/audio/image processing
 
-🔻 You can reach me at [LinkedIn](https://www.linkedin.com/in/alex-olive-pellicer/)
+🔻 You can reach me on [LinkedIn](https://www.linkedin.com/in/alex-olive-pellicer/)
